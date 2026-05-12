@@ -13,7 +13,7 @@ Bu proje, Python ve OpenCV kütüphanesi kullanılarak geliştirilmiş temel bir
 * **Platform:** Google Colab & Drive
 
 ## 📸 Örnek Çıktı
-![Yüz Tanıma Sonucu](image_d445aa.jpg)
+![Yüz Tanıma Sonucu](cagtayUlusoy.jpg)
 
 ## 📖 Nasıl Çalıştırılır?
 1. `oyuncu_yuzleri/` klasörüne tanınacak kişilerin klasörlerini ve fotoğraflarını ekleyin.
